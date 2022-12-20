@@ -1,0 +1,7 @@
+sidekick:
+  apiKey: 061656c7-2836-4363-98b7-30212c9ab167
+  agent:
+    application:
+      name: user-service
+      stage: dev
+      version: 1.0.1-SNAPSHOT
